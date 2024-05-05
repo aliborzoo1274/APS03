@@ -1,0 +1,19 @@
+7
+InternetEngineering 3 AdvancedProgramming,ComputerNetworks
+DataScience 3 StatisticsAndProbability
+IntroductionToProjectManagement 3 PrinciplesOfManagement
+ResearchMethods 2 TechnicalEnglish
+DistributedSystems 3 OperatingSystems,ComputerNetworks
+CyberPhysicalSystems 3 OperatingSystems
+Varzesh 1 TarbiatBadani
+8
+AdvancedProgramming 3 11.5
+ComputerNetworks 3 12
+StatisticsAndProbability 3 12
+PrinciplesOfManagement 3 11.5
+TechnicalEnglish 2 12
+OperatingSystems 3 12
+TarbiatBadani 1 11.8
+NetworkSecurity 3 11.5
+6
+DataScience IntroductionToProjectManagement ResearchMethods DistributedSystems CyberPhysicalSystems Varzesh
